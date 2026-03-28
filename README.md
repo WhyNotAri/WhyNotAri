@@ -7,7 +7,7 @@ Right now I'm focused on backend development and data analysis.
 ## 🚀 Current Project
 
 ### Web Sales Application
-I'm currently working on a full-stack web application for product sales. I is being designed to manage product, users, and keep track of orders.
+I'm currently working on a full-stack web application for product sales. It is being designed to manage product, users, and keep track of orders.
 
 **Tech Stack**
 - Backend: Java (Spring Boot)
@@ -15,6 +15,26 @@ I'm currently working on a full-stack web application for product sales. I is be
 - DB: PostgreSQL (Supabase)
 
 This project is intended for personal learning and practice purposes.
+
+## 🧶 Other Projects
+
+### Minecraft Java Paper Plugin
+Based on official Paper.io documentation I created a Minecraft plugin to handle events on a server using commands and listeners.
+
+**Tech Stack**
+- Java
+- Paper API
+- Gradle
+
+**Features**
+- `/track <player>` command
+- Gives a compass to the player
+- Updates compass target dynamically
+- Future expansion
+
+**Repository**
+👉 [View Project](https://github.com/WhyNotAri/My-Paper-Plugin)
+
 
 ## 💻 Tech Stack
 
