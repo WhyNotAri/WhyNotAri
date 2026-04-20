@@ -4,21 +4,21 @@ I'm a software engineer student currently developing skills in various technolog
 
 Right now I'm focused on backend development and data analysis.
 
-## 🚀 Current Project
+## 🚧 Current Project
 
-### Web Sales Application
-I'm currently working on a full-stack web application for product sales. It is being designed to manage product, users, and keep track of orders.
+Building a full-stack mobile application.
+>This project is private
 
 **Tech Stack**
 - Backend: Java (Spring Boot)
-- Frontend: HTML + CSS + JS
-- DB: PostgreSQL (Supabase)
+- Frontend: React Native
+- Database: PostgreSQL
 
-This project is intended for personal learning and practice purposes.
+Working on REST API design, authentication flow, and transactional data consistency.
 
 ## 🧶 Other Projects
 
-### Minecraft Java Paper Plugin
+###  1. Minecraft Java Paper Plugin
 Based on official Paper.io documentation I created a Minecraft plugin to handle events on a server using commands and listeners.
 
 **Tech Stack**
@@ -35,6 +35,34 @@ Based on official Paper.io documentation I created a Minecraft plugin to handle 
 **Repository**
 👉 [View Project](https://github.com/WhyNotAri/My-Paper-Plugin)
 
+### 2. Virus Auto Scan In Downloads Folder
+Scan downloaded files automatically with VirusTotal API
+
+**Tech Stack**
+- Python 3.12
+- VirusTotal API
+
+**Features**
+- Run the script
+- Download a file
+- Scan the file for virus and malware
+- Save the results into a generated log file
+
+**Repository**
+👉 [View Project](https://github.com/WhyNotAri/VirusDownloadsScan)
+
+### 3. Web Sales Application (On Hold)
+Full-Stack web application for product sales. It is being designed to manage product, users, and keep track of orders.
+
+**Tech Stack**
+- Backend: Java (Spring Boot)
+- Frontend: HTML + CSS + JS
+- Database: PostgreSQL (Supabase)
+
+**Repository**
+👉 [View Project](https://github.com/WhyNotAri/MySales)
+>This project is intended for personal learning and practice purposes.
+
 
 ## 💻 Tech Stack
 
@@ -47,8 +75,9 @@ Based on official Paper.io documentation I created a Minecraft plugin to handle 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Contact
+## 📬 Contact
 
-- Email: arimorales2506@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ari-morales-648486355/
+- 📩 Email: arimorales2506@gmail.com
+- 📘 LinkedIn: https://www.linkedin.com/in/ari-morales-648486355/
