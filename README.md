@@ -4,6 +4,8 @@ I'm a software engineer student currently developing skills in various technolog
 
 Right now I'm focused on backend development and data analysis.
 
+---
+
 ## 🚧 Current Project
 
 Building a full-stack mobile application.
@@ -15,6 +17,8 @@ Building a full-stack mobile application.
 - Database: PostgreSQL
 
 Working on REST API design, authentication flow, and transactional data consistency.
+
+---
 
 ## 🧶 Other Projects
 
@@ -35,6 +39,8 @@ Based on official Paper.io documentation I created a Minecraft plugin to handle 
 **Repository**
 👉 [View Project](https://github.com/WhyNotAri/My-Paper-Plugin)
 
+---
+
 ### 2. Virus Auto Scan In Downloads Folder
 Scan downloaded files automatically with VirusTotal API
 
@@ -51,6 +57,8 @@ Scan downloaded files automatically with VirusTotal API
 **Repository**
 👉 [View Project](https://github.com/WhyNotAri/VirusDownloadsScan)
 
+---
+
 ### 3. Web Sales Application (On Hold)
 Full-Stack web application for product sales. It is being designed to manage product, users, and keep track of orders.
 
@@ -63,6 +71,7 @@ Full-Stack web application for product sales. It is being designed to manage pro
 👉 [View Project](https://github.com/WhyNotAri/MySales)
 >This project is intended for personal learning and practice purposes.
 
+---
 
 ## 💻 Tech Stack
 
@@ -76,6 +85,8 @@ Full-Stack web application for product sales. It is being designed to manage pro
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
 
 ## 📬 Contact
 
