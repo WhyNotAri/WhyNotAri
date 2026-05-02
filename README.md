@@ -6,7 +6,7 @@ Right now I'm focused on backend development and data analysis.
 
 ---
 
-## 🚧 Current Project
+## 📌 Current Project
 
 Building a full-stack mobile application.
 >This project is private
@@ -16,7 +16,7 @@ Building a full-stack mobile application.
 - Frontend: React Native
 - Database: PostgreSQL
 
-Working on REST API design, authentication flow, and transactional data consistency.
+_Working on security configuration..._
 
 ---
 
