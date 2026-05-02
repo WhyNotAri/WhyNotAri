@@ -37,7 +37,7 @@ Based on official Paper.io documentation I created a Minecraft plugin to handle 
 - Future expansion
 
 **Repository**
-👉 [View Project](https://github.com/WhyNotAri/My-Paper-Plugin)
+👉 [View Project](https://github.com/WhyNotAri/Track-A-Player)
 
 ---
 
