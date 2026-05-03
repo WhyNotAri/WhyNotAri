@@ -34,6 +34,7 @@ Building a full-stack mobile application.
 - Frontend: React Native
 - Database: PostgreSQL
 
+**Status:**
 _Working on security configuration..._
 
 ---
@@ -51,7 +52,7 @@ Based on official Paper.io documentation I created a Minecraft plugin to handle 
 **Features**
 - `/track <player>` command
 - Gives a compass to the player
-- Updates compass target dynamically
+- Updates compass target on right-click
 - Future expansion
 
 **Repository**
@@ -72,6 +73,9 @@ Scan downloaded files automatically with VirusTotal API
 - Scan the file for virus and malware
 - Save the results into a generated log file
 
+**Tasks List**
+- Make it executable and run in the background
+
 **Repository**
 👉 [View Project](https://github.com/WhyNotAri/VirusDownloadsScan)
 
@@ -84,6 +88,10 @@ Full-Stack web application for product sales. It is being designed to manage pro
 - Backend: Java (Spring Boot)
 - Frontend: HTML + CSS + JS
 - Database: PostgreSQL (Supabase)
+
+**Tasks List**
+- Microservice arquitecture
+  - Separate all services
 
 **Repository**
 👉 [View Project](https://github.com/WhyNotAri/MySales)
