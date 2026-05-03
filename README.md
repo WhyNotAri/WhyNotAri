@@ -1,8 +1,8 @@
 ## 👋 Hi there
 
-I'm a software engineer student currently developing skills in various technologies, with a strong interest and curiosity in building applications. I'm continuously learning and improving my abilities. 
+I'm a software engineer student focused on backend development and data analysis. I'm currently expanding my expertise in Java using the Spring Boot framework, with hands-on experience in Python, CI/CD practices, and frontend technologies.
 
-Right now I'm focused on backend development and data analysis.
+I'm exploring best practices in software arquitecture and security.
 
 ---
 
@@ -15,9 +15,12 @@ Right now I'm focused on backend development and data analysis.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
