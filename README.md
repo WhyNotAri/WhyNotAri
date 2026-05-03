@@ -26,8 +26,10 @@ I'm exploring best practices in software arquitecture and security.
 
 ## 📌 Current Project
 
+>[!Note]
+>This project is private until it’s ready to be made public.
+
 Building a full-stack mobile application.
->This project is private
 
 **Tech Stack**
 - Backend: Java (Spring Boot)
@@ -42,7 +44,7 @@ _Working on security configuration..._
 ## 🧶 Other Projects
 
 ###  1. Minecraft Java Paper Plugin
-Based on official Paper.io documentation I created a Minecraft plugin to handle events on a server using commands and listeners.
+A Minecraft plugin to handle events on a server using commands and listeners. Used the Paper software for servers in Minecraft Java
 
 **Tech Stack**
 - Java
@@ -73,8 +75,9 @@ Scan downloaded files automatically with VirusTotal API
 - Scan the file for virus and malware
 - Save the results into a generated log file
 
-**Tasks List**
-- Make it executable and run in the background
+**Future...**
+- [ ] Make it executable
+- [ ] Run in the background
 
 **Repository**
 👉 [View Project](https://github.com/WhyNotAri/VirusDownloadsScan)
@@ -82,6 +85,9 @@ Scan downloaded files automatically with VirusTotal API
 ---
 
 ### 3. Web Sales Application (On Hold)
+>[!Note]
+>Currently migrating from a monolithic architecture to microservices.
+
 Full-Stack web application for product sales. It is being designed to manage product, users, and keep track of orders.
 
 **Tech Stack**
@@ -89,12 +95,14 @@ Full-Stack web application for product sales. It is being designed to manage pro
 - Frontend: HTML + CSS + JS
 - Database: PostgreSQL (Supabase)
 
-**Tasks List**
-- Microservice arquitecture
-  - Separate all services
+**Future...**
+- [ ] Security configuration
+- [ ] Define independant services
+- [ ] Extract services
 
 **Repository**
 👉 [View Project](https://github.com/WhyNotAri/MySales)
+
 >This project is intended for personal learning and practice purposes.
 
 ---
